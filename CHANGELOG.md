@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 0.0.1 - 2023-12-30
+
+**Full Changelog**: https://github.com/Focus-Sports-Labs/fsl-data-center-laravel/compare/0.0.0...0.0.1
+
 ## 0.0.0 - 2023-12-30
 
 ### What's Changed
