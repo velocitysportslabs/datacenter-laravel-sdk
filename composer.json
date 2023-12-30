@@ -1,6 +1,5 @@
 {
     "name": "focus-sports-labs/data-center-laravel",
-    "version": "1.0.0",
     "description": "FSL Data Center is a bridge for Laravel",
     "type": "library",
     "license": "MIT",
