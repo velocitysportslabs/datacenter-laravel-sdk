@@ -1,0 +1,68 @@
+{
+    "name": "focus-sports-labs/data-center-laravel",
+    "version": "1.0.0",
+    "description": "FSL Data Center is a bridge for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "framework",
+        "laravel",
+        "fsl data center",
+        "fsl data center php sdk"
+    ],
+    "authors": [
+        {
+            "name": "Abdul Kudus",
+            "email": "abdulkudus2922@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FocusSportsLabs\\FslDataCenter\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FocusSportsLabs\\FslDataCenter\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev"
+        },
+        "laravel": {
+            "providers": [
+                "FocusSportsLabs\\FslDataCenter\\FSLDataCenterServiceProvider"
+            ],
+            "aliases": {
+                "FSLDataCenter": "FocusSportsLabs\\FslDataCenter\\FSLDataCenter"
+            }
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "focus-sports-labs/fsl-data-center": "^0.0.0",
+        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/psr7": "^2.6",
+        "illuminate/contracts": "^9.0 || ^10.0",
+        "illuminate/support": "^9.0 || ^10.0"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.13",
+        "nunomaduro/collision": "^7.10",
+        "orchestra/testbench": "^7.0|^8.0",
+        "pestphp/pest": "^2.29",
+        "pestphp/pest-plugin-arch": "^2.5",
+        "pestphp/pest-plugin-laravel": "^2.2",
+        "phpstan/phpstan": "^1.10"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "php-http/discovery": true,
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
