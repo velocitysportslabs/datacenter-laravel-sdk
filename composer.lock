@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "69937cc7b00c4f0be82e952ba26065df",
+    "content-hash": "fc6cb28c9f8fed15ef6e7321bbc0f348",
     "packages": [
         {
             "name": "brick/math",
@@ -569,16 +569,16 @@
         },
         {
             "name": "focus-sports-labs/fsl-data-center",
-            "version": "v0.0.0",
+            "version": "v0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Focus-Sports-Labs/datacenter-php-sdk.git",
-                "reference": "47bc435b0d9bca4f6cf47c34d5385a0ed46f180c"
+                "reference": "d322af5019dcace0c6ee62ab2726d4a0f97dbf49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Focus-Sports-Labs/datacenter-php-sdk/zipball/47bc435b0d9bca4f6cf47c34d5385a0ed46f180c",
-                "reference": "47bc435b0d9bca4f6cf47c34d5385a0ed46f180c",
+                "url": "https://api.github.com/repos/Focus-Sports-Labs/datacenter-php-sdk/zipball/d322af5019dcace0c6ee62ab2726d4a0f97dbf49",
+                "reference": "d322af5019dcace0c6ee62ab2726d4a0f97dbf49",
                 "shasum": ""
             },
             "require": {
@@ -595,7 +595,6 @@
                 "laravel/pint": "^1.13",
                 "nyholm/psr7": "^1.8",
                 "pestphp/pest": "^2.29",
-                "pestphp/pest-plugin-drift": "^2.5",
                 "php-http/mock-client": "^1.6",
                 "phpstan/phpstan": "^1.10",
                 "symfony/http-client": "^6.4",
@@ -626,9 +625,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Focus-Sports-Labs/datacenter-php-sdk/issues",
-                "source": "https://github.com/Focus-Sports-Labs/datacenter-php-sdk/tree/v0.0.0"
+                "source": "https://github.com/Focus-Sports-Labs/datacenter-php-sdk/tree/v0.0.1"
             },
-            "time": "2023-12-29T11:20:43+00:00"
+            "time": "2023-12-30T20:51:23+00:00"
         },
         {
             "name": "fruitcake/php-cors",
