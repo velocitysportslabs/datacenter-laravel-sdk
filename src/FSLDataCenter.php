@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static Requests\SpendHistoryRequest spendHistory()
  * @method static Requests\TeamRequest teams()
  *
- * @see \FocusSportsLabs\FslDataCenter\Client
+ * @see Client
  */
 class FSLDataCenter extends Facade
 {
