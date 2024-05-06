@@ -63,7 +63,7 @@ class FSLDataCenterServiceProvider extends ServiceProvider
         return new Builder(
             new GuzzleHttpClient(['connect_timeout' => 10, 'timeout' => 30]),
             $psrFactory,
-            $psrFactory
+            $psrFactory,
         );
     }
 
