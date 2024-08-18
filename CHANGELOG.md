@@ -1,5 +1,17 @@
 # ChangeLog
 
+## 0.1.0 - 2024-08-18
+
+### What's Changed
+
+* Added support for Laravel 11 by @alhaji-aki in https://github.com/velocitysportslabs/fsl-data-center-laravel/pull/56
+
+### New Contributors
+
+* @alhaji-aki made their first contribution in https://github.com/velocitysportslabs/fsl-data-center-laravel/pull/56
+
+**Full Changelog**: https://github.com/velocitysportslabs/fsl-data-center-laravel/compare/0.0.1...0.1.0
+
 ## 0.0.1 - 2023-12-30
 
 **Full Changelog**: https://github.com/Focus-Sports-Labs/fsl-data-center-laravel/compare/0.0.0...0.0.1
