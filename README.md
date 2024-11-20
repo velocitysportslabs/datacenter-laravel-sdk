@@ -4,7 +4,7 @@ Laravel VSL Data Center is a [VSL Data Center PHP SDK](https://github.com/veloci
 
 ## Installation
 
-This package requires [PHP](https://www.php.net/) ^8.1 and supports [Laravel](https://laravel.com/) 8 and above.
+This package requires [PHP](https://www.php.net/) ^8.1 and supports [Laravel](https://laravel.com/) 10 and above.
 
 You can install the package via composer by running:
 
