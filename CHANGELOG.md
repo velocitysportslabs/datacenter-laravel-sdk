@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 0.2.0 - 2024-11-20
+
+### What's Changed
+
+* rename and restructure project by @alhaji-aki in https://github.com/velocitysportslabs/data-center-laravel-sdk/pull/70
+
+**Full Changelog**: https://github.com/velocitysportslabs/data-center-laravel-sdk/compare/0.1.0...0.2.0
+
 ## 0.1.0 - 2024-08-18
 
 ### What's Changed
