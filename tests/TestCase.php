@@ -1,11 +1,11 @@
 <?php
 
-namespace FocusSportsLabs\FslDataCenter\Tests;
+namespace VelocitySportsLabs\DataCenter\Tests;
 
 use Dotenv\Dotenv;
-use FocusSportsLabs\FslDataCenter\FSLDataCenterServiceProvider;
 use Orchestra\Testbench\Concerns\WithWorkbench;
 use Orchestra\Testbench\TestCase as Orchestra;
+use VelocitySportsLabs\DataCenter\DataCenterServiceProvider;
 
 class TestCase extends Orchestra
 {
@@ -32,7 +32,7 @@ class TestCase extends Orchestra
     protected function getPackageProviders($app)
     {
         return [
-            FSLDataCenterServiceProvider::class,
+            DataCenterServiceProvider::class,
         ];
     }
 

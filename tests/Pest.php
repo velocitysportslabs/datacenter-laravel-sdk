@@ -1,5 +1,5 @@
 <?php
 
-use FocusSportsLabs\FslDataCenter\Tests\TestCase;
+use VelocitySportsLabs\DataCenter\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);
