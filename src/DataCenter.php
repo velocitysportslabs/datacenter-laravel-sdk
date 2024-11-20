@@ -1,6 +1,6 @@
 <?php
 
-namespace FocusSportsLabs\FslDataCenter;
+namespace VelocitySportsLabs\DataCenter;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -20,13 +20,13 @@ use Illuminate\Support\Facades\Facade;
  *
  * @see Client
  */
-class FSLDataCenter extends Facade
+class DataCenter extends Facade
 {
     /**
      * Get the registered name of the component.
      */
     protected static function getFacadeAccessor(): string
     {
-        return 'fsl-datacenter';
+        return 'vsl-datacenter';
     }
 }

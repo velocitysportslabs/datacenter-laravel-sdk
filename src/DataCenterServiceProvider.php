@@ -1,29 +1,29 @@
 <?php
 
-namespace FocusSportsLabs\FslDataCenter;
+namespace VelocitySportsLabs\DataCenter;
 
-use FocusSportsLabs\FslDataCenter\HttpClient\Builder;
-use FocusSportsLabs\FslDataCenter\HttpClient\Options;
 use GuzzleHttp\Client as GuzzleHttpClient;
 use GuzzleHttp\Psr7\HttpFactory as GuzzleHttpFactory;
 use Illuminate\Support\ServiceProvider;
+use VelocitySportsLabs\DataCenter\HttpClient\Builder;
+use VelocitySportsLabs\DataCenter\HttpClient\Options;
 
-class FSLDataCenterServiceProvider extends ServiceProvider
+class DataCenterServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
      */
     public function register(): void
     {
-        $this->app->singleton('fsl-datacenter', function ($app) {
-            $options = $this->createOptions($app['config']->get('fsl-datacenter'));
+        $this->app->singleton('vsl-datacenter', function ($app) {
+            $options = $this->createOptions($app['config']->get('vsl-datacenter'));
 
             $builder = $this->createBuilder();
 
             return new Client($options, $builder);
         });
 
-        $this->app->alias('fsl-datacenter', Client::class);
+        $this->app->alias('vsl-datacenter', Client::class);
     }
 
     /**
@@ -42,7 +42,7 @@ class FSLDataCenterServiceProvider extends ServiceProvider
     public function provides(): array
     {
         return [
-            'fsl-datacenter',
+            'vsl-datacenter',
         ];
     }
 
@@ -70,9 +70,9 @@ class FSLDataCenterServiceProvider extends ServiceProvider
     protected function setupConfig(): void
     {
         $this->publishes([
-            __DIR__ . '/../config/fsl-datacenter.php' => config_path('fsl-datacenter.php'),
+            __DIR__ . '/../config/vsl-datacenter.php' => config_path('vsl-datacenter.php'),
         ], 'config');
 
-        $this->mergeConfigFrom(__DIR__ . '/../config/fsl-datacenter.php', 'fsl-datacenter');
+        $this->mergeConfigFrom(__DIR__ . '/../config/vsl-datacenter.php', 'vsl-datacenter');
     }
 }

@@ -4,6 +4,6 @@ parameters:
 
     level: 9
 
-    checkMissingIterableValueType: false
-
-    checkGenericClassInNonGenericObjectType: false
+    ignoreErrors:
+        -
+            identifier: missingType.iterableValue

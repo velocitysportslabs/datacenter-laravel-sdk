@@ -1,13 +1,13 @@
 {
-    "name": "focus-sports-labs/data-center-laravel",
-    "description": "FSL Data Center is a bridge for Laravel",
+    "name": "velocity-sports-labs/data-center-laravel-sdk",
+    "description": "VSL Data Center is a bridge for Laravel",
     "type": "library",
     "license": "MIT",
     "keywords": [
-        "framework",
         "laravel",
-        "fsl data center",
-        "fsl data center php sdk"
+        "vsl",
+        "velocity sports labs",
+        "data center"
     ],
     "authors": [
         {
@@ -17,12 +17,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "FocusSportsLabs\\FslDataCenter\\": "src/"
+            "VelocitySportsLabs\\DataCenter\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FocusSportsLabs\\FslDataCenter\\Tests\\": "tests/"
+            "VelocitySportsLabs\\DataCenter\\Tests\\": "tests/"
         }
     },
     "extra": {
@@ -31,16 +31,16 @@
         },
         "laravel": {
             "providers": [
-                "FocusSportsLabs\\FslDataCenter\\FSLDataCenterServiceProvider"
+                "VelocitySportsLabs\\DataCenter\\DataCenterServiceProvider"
             ],
             "aliases": {
-                "FSLDataCenter": "FocusSportsLabs\\FslDataCenter\\FSLDataCenter"
+                "DataCenter": "VelocitySportsLabs\\DataCenter\\DataCenter"
             }
         }
     },
     "require": {
         "php": "^8.1",
-        "focus-sports-labs/fsl-data-center": "^0.0",
+        "velocity-sports-labs/datacenter-php-sdk": "^0.1",
         "guzzlehttp/guzzle": "^7.2",
         "guzzlehttp/psr7": "^2.6",
         "illuminate/contracts": "^10.0|^11.0",
@@ -59,6 +59,9 @@
             "php-http/discovery": true,
             "pestphp/pest-plugin": true
         }
+    },
+    "scripts": {
+        "test": "./vendor/bin/pest"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
