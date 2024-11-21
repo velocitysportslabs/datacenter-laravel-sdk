@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 0.2.2 - 2024-11-21
+
+### What's Changed
+
+* add rate limit job middleware by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/71
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/0.2.1...0.2.2
+
 ## 0.2.1 - 2024-11-20
 
 **Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/0.2.0...0.2.1
