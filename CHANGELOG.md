@@ -1,5 +1,16 @@
 # ChangeLog
 
+## 1.0.0 - 2024-12-02
+
+### What's Changed
+
+* Bump laravel/pint from 1.18.1 to 1.18.2 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/73
+* Bump laravel/pint from 1.18.2 to 1.18.3 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/75
+* Bump phpstan/phpstan from 1.12.11 to 2.0.3 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/74
+* Bump base package version to v1 by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/76
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/0.2.2...1.0.0
+
 ## 0.2.2 - 2024-11-21
 
 ### What's Changed
