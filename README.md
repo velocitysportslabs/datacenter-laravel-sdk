@@ -9,7 +9,7 @@ This package requires [PHP](https://www.php.net/) ^8.1 and supports [Laravel](ht
 You can install the package via composer by running:
 
 ```bash
-composer require velocity-sports-labs/data-center-laravel-sdk
+composer require velocity-sports-labs/datacenter-laravel-sdk
 ```
 
 After the installation has completed, the package will automatically register itself.
