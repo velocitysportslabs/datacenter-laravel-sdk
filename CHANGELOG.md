@@ -1,5 +1,15 @@
 # ChangeLog
 
+## 1.1.0 - 2025-05-18
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.2.0 to 2.3.0 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/77
+* Bump dependabot/fetch-metadata from 2.3.0 to 2.4.0 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/78
+* Added PHP8.4 and Laravel 12 Support by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/79
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.0.0...1.1.0
+
 ## 1.0.0 - 2024-12-02
 
 ### What's Changed
