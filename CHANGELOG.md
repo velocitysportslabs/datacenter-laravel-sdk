@@ -1,5 +1,14 @@
 # ChangeLog
 
+## 1.2.0 - 2025-07-06
+
+### What's Changed
+
+* Upgraded Data center SDK to 1.2.0
+* Bump stefanzweifel/git-auto-commit-action from 5 to 6 by @dependabot in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/80
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.1.1...1.2.0
+
 ## 1.1.1 - 2025-05-25
 
 **Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.1.0...1.1.1
