@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static Requests\DivisionRequest divisions()
  * @method static Requests\FanRequest fans()
  * @method static Requests\OrganizationRequest organizations()
+ * @method static Requests\OrganizationRequestRequest organizationRequests()
  * @method static Requests\PlayerRequest players()
  * @method static Requests\ProfileRequest profiles()
  * @method static Requests\SpendHistoryRequest spendHistory()
