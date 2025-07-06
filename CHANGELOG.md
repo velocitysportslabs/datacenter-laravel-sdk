@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 1.2.1 - 2025-07-06
+
+### What's Changed
+
+* add missing organization request doc block by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/81
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.2.0...1.2.1
+
 ## 1.2.0 - 2025-07-06
 
 ### What's Changed
