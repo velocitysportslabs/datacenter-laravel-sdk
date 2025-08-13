@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Facade;
 
 /**
  * @method static Requests\AssociationRequest associations()
+ * @method static Requests\AthleteRequest athletes()
  * @method static Requests\ClubRequest clubs()
  * @method static Requests\CountryRequest countries()
  * @method static Requests\CurrencyRequest currencies()
@@ -14,7 +15,6 @@ use Illuminate\Support\Facades\Facade;
  * @method static Requests\FanRequest fans()
  * @method static Requests\OrganizationRequest organizations()
  * @method static Requests\OrganizationRequestRequest organizationRequests()
- * @method static Requests\PlayerRequest players()
  * @method static Requests\ProfileRequest profiles()
  * @method static Requests\SpendHistoryRequest spendHistory()
  * @method static Requests\TeamRequest teams()
