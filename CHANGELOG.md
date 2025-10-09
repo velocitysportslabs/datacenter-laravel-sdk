@@ -1,5 +1,14 @@
 # ChangeLog
 
+## 1.3.1 - 2025-10-09
+
+### What's Changed
+
+* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/84
+* update PHP SDK to v1.3.1 by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/85
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.3.0...1.3.1
+
 ## 1.3.0 - 2025-08-13
 
 ### What's Changed
