@@ -11,6 +11,8 @@ class TestCase extends Orchestra
 {
     use WithWorkbench;
 
+    public static $latestResponse;
+
     protected function setUp(): void
     {
         $this->loadEnvironmentVariables();
