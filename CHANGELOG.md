@@ -1,5 +1,14 @@
 # ChangeLog
 
+## 1.4.0 - 2025-11-22
+
+### What's Changed
+
+* Bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/86
+* added media organizations support by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/87
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.3.1...1.4.0
+
 ## 1.3.1 - 2025-10-09
 
 ### What's Changed
