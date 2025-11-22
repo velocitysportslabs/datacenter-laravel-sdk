@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9a3800082b56375043648bdf351a9c2b",
+    "content-hash": "9d81141a85b736827acfb5311b96e57b",
     "packages": [
         {
             "name": "brick/math",
@@ -6232,16 +6232,16 @@
         },
         {
             "name": "velocity-sports-labs/datacenter-php-sdk",
-            "version": "v1.4.0",
+            "version": "v1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/velocitysportslabs/datacenter-php-sdk.git",
-                "reference": "d1b4d5f2430657a8b69c4133d36d6a0516d03418"
+                "reference": "b4c1c71f15bb93f09e4afab7ffc0c1f7c987bdd9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/d1b4d5f2430657a8b69c4133d36d6a0516d03418",
-                "reference": "d1b4d5f2430657a8b69c4133d36d6a0516d03418",
+                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/b4c1c71f15bb93f09e4afab7ffc0c1f7c987bdd9",
+                "reference": "b4c1c71f15bb93f09e4afab7ffc0c1f7c987bdd9",
                 "shasum": ""
             },
             "require": {
@@ -6291,9 +6291,9 @@
             ],
             "support": {
                 "issues": "https://github.com/velocitysportslabs/datacenter-php-sdk/issues",
-                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.4.0"
+                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.4.1"
             },
-            "time": "2025-11-22T06:56:44+00:00"
+            "time": "2025-11-22T16:30:00+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -10639,7 +10639,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.3"
+        "php": "^8.1"
     },
     "platform-dev": {},
     "plugin-api-version": "2.6.0"
