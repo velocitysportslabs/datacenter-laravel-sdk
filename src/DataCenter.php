@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static Requests\DisciplineRequest disciplines()
  * @method static Requests\DivisionRequest divisions()
  * @method static Requests\FanRequest fans()
+ * @method static Requests\MediaOrganizationRequest mediaOrganizations()
  * @method static Requests\OrganizationRequest organizations()
  * @method static Requests\OrganizationRequestRequest organizationRequests()
  * @method static Requests\ProfileRequest profiles()
