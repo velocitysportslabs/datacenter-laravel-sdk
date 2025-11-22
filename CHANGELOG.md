@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 1.4.1 - 2025-11-22
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.4.0...1.4.1
+
 ## 1.4.0 - 2025-11-22
 
 ### What's Changed
