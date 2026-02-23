@@ -39,7 +39,7 @@
         }
     },
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "velocity-sports-labs/datacenter-php-sdk": "^1.4",
         "guzzlehttp/guzzle": "^7.2",
         "guzzlehttp/psr7": "^2.6",
