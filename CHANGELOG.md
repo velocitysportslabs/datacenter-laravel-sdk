@@ -1,5 +1,15 @@
 # ChangeLog
 
+## 1.4.2 - 2026-02-23
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/89
+* Bump actions/checkout from 5 to 6 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/88
+* updated datacenter php sdk by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/90
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.4.1...1.4.2
+
 ## 1.4.1 - 2025-11-22
 
 **Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.4.0...1.4.1
