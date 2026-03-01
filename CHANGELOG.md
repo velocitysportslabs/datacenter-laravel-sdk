@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 1.5.0 - 2026-03-01
+
+### What's Changed
+
+* added support for organization claims by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/91
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.4.2...1.5.0
+
 ## 1.4.2 - 2026-02-23
 
 ### What's Changed
