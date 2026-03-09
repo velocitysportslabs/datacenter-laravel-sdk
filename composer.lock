@@ -6253,16 +6253,16 @@
         },
         {
             "name": "velocity-sports-labs/datacenter-php-sdk",
-            "version": "v1.5.0",
+            "version": "v1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/velocitysportslabs/datacenter-php-sdk.git",
-                "reference": "fc87c520e596ecaded34a015e8379393628ee5de"
+                "reference": "9d79a32d53a6b5154abfdf0978dde83f462bc33c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/fc87c520e596ecaded34a015e8379393628ee5de",
-                "reference": "fc87c520e596ecaded34a015e8379393628ee5de",
+                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/9d79a32d53a6b5154abfdf0978dde83f462bc33c",
+                "reference": "9d79a32d53a6b5154abfdf0978dde83f462bc33c",
                 "shasum": ""
             },
             "require": {
@@ -6313,9 +6313,9 @@
             ],
             "support": {
                 "issues": "https://github.com/velocitysportslabs/datacenter-php-sdk/issues",
-                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.5.0"
+                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.5.1"
             },
-            "time": "2026-03-01T11:11:47+00:00"
+            "time": "2026-03-02T08:11:33+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
