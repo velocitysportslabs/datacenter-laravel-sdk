@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 1.5.2 - 2026-03-18
+
+### What's Changed
+
+* update Datacenter PHP SDK to v1.5.3 by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/97
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.5.1...1.5.2
+
 ## 1.5.1 - 2026-03-18
 
 ### What's Changed
