@@ -1,5 +1,17 @@
 # ChangeLog
 
+## 1.5.1 - 2026-03-18
+
+### What's Changed
+
+* Bump velocity-sports-labs/datacenter-php-sdk from 1.5.0 to 1.5.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/92
+* Bump guzzlehttp/psr7 from 2.8.0 to 2.9.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/94
+* Bump laravel/pint from 1.27.1 to 1.29.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/95
+* Bump ramsey/composer-install from 3 to 4 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/93
+* update Datacenter PHP SDK to v1.5.2 by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/96
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.5.0...1.5.1
+
 ## 1.5.0 - 2026-03-01
 
 ### What's Changed
