@@ -50,8 +50,8 @@
         "larastan/larastan": "^2.7.0|^3.0",
         "laravel/pint": "^1.13",
         "orchestra/testbench": "^8.0|^9.0|^10.0|^11.0",
-        "pestphp/pest": "^2.30|^3.0",
-        "pestphp/pest-plugin-laravel": "^2.2|^3.0"
+        "pestphp/pest": "^2.30|^3.0|^4.0",
+        "pestphp/pest-plugin-laravel": "^2.2|^3.0|^4.0"
     },
     "config": {
         "sort-packages": true,
