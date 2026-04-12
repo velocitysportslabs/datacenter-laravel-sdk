@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "02a3fe8229af0423385573cf369e9508",
+    "content-hash": "b1fc301dbac626979357b0fab7a4670b",
     "packages": [
         {
             "name": "brick/math",
@@ -6254,16 +6254,16 @@
         },
         {
             "name": "velocity-sports-labs/datacenter-php-sdk",
-            "version": "v1.5.3",
+            "version": "v1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/velocitysportslabs/datacenter-php-sdk.git",
-                "reference": "049dcf32aac09b668425d9805e5d6e78c9b936f0"
+                "reference": "ee33e684ec1f9e30a154a4233137bd1b62717571"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/049dcf32aac09b668425d9805e5d6e78c9b936f0",
-                "reference": "049dcf32aac09b668425d9805e5d6e78c9b936f0",
+                "url": "https://api.github.com/repos/velocitysportslabs/datacenter-php-sdk/zipball/ee33e684ec1f9e30a154a4233137bd1b62717571",
+                "reference": "ee33e684ec1f9e30a154a4233137bd1b62717571",
                 "shasum": ""
             },
             "require": {
@@ -6314,9 +6314,9 @@
             ],
             "support": {
                 "issues": "https://github.com/velocitysportslabs/datacenter-php-sdk/issues",
-                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.5.3"
+                "source": "https://github.com/velocitysportslabs/datacenter-php-sdk/tree/v1.6.0"
             },
-            "time": "2026-03-18T11:54:51+00:00"
+            "time": "2026-04-12T09:11:08+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
