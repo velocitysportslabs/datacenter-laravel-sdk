@@ -1,5 +1,33 @@
 # ChangeLog
 
+## 1.6.1 - 2026-09-25
+
+### What's Changed
+
+* Bump larastan/larastan from 3.9.4 to 3.9.6 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/100
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/101
+* Bump guzzlehttp/psr7 from 2.9.0 to 2.10.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/103
+* Bump guzzlehttp/guzzle from 7.10.0 to 7.10.5 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/105
+* Bump larastan/larastan from 3.9.6 to 3.10.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/106
+* Bump guzzlehttp/psr7 from 2.10.1 to 2.10.4 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/107
+* Bump guzzlehttp/guzzle from 7.10.5 to 7.11.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/108
+* Bump guzzlehttp/psr7 from 2.10.4 to 2.11.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/109
+* Bump laravel/pint from 1.29.0 to 1.29.3 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/110
+* Bump guzzlehttp/guzzle from 7.11.1 to 7.12.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/111
+* Bump guzzlehttp/psr7 from 2.12.1 to 2.12.3 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/115
+* Bump guzzlehttp/guzzle from 7.12.1 to 7.12.3 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/114
+* Bump guzzlehttp/guzzle from 7.12.3 to 7.13.2 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/116
+* Bump guzzlehttp/psr7 from 2.12.3 to 2.12.5 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/117
+* Bump guzzlehttp/guzzle from 7.13.2 to 7.15.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/119
+* Bump laravel/pint from 1.29.3 to 1.30.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/121
+* Bump laravel/pint from 1.30.0 to 1.30.4 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/122
+* Bump larastan/larastan from 3.10.0 to 3.11.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/123
+* Bump larastan/larastan from 3.11.0 to 3.12.0 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/124
+* Bump larastan/larastan from 3.12.0 to 3.12.1 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/125
+* Bump actions/checkout from 6 to 7 by @dependabot[bot] in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/112
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.6.0...1.6.1
+
 ## 1.6.0 - 2026-04-12
 
 ### What's Changed
