@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 1.6.2 - 2026-10-31
+
+### What's Changed
+
+* update php sdk by @alhaji-aki in https://github.com/velocitysportslabs/datacenter-laravel-sdk/pull/126
+
+**Full Changelog**: https://github.com/velocitysportslabs/datacenter-laravel-sdk/compare/1.6.1...1.6.2
+
 ## 1.6.1 - 2026-09-25
 
 ### What's Changed
